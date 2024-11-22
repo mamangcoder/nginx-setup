@@ -1,6 +1,6 @@
-### This is a project accompanying Nginx Crash Course
+### This is a project  Nginx 
 
-### Commands used in the tutorial
+
 
 ##### start nginx
 `nginx`
